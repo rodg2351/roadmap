@@ -69,3 +69,32 @@ Ho I "Do"
 9. Seek out feedback
 
 10. Maintain your health
+
+# Courses
+- [ ] https://www.udemy.com/machinelearning
+- [ ] https://www.udacity.com/course/intro-to-machine-learning--ud120
+- [ ] http://www.work.caltech.edu/telecourse.html
+- [ ] https://br.udacity.com/course/intro-to-artificial-intelligence--cs271
+- [ ] https://www.coursera.org/learn/machine-learning
+- [ ] http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml
+- [ ] https://www.edx.org/course/analytics-edge-mitx-15-071x-3
+- [ ] https://br.udacity.com/course/intro-to-data-analysis--ud170/
+- [ ] https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+- [ ] http://introtodeeplearning.com/schedule.html
+- [ ] https://www.coursera.org/specializations/machine-learning
+- [ ] https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+- [ ] http://cs229.stanford.edu/materials.html
+- [ ] https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm
+- [ ] https://www.coursera.org/learn/neural-networks
+- [ ] https://www.coursera.org/specializations/machine-learning
+- [ ] https://www.coursera.org/learn/probabilistic-graphical-models
+- [ ] https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+- [ ] https://www.coursera.org/learn/ml-foundations
+- [ ] https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+- [ ] https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
+- [ ] https://www.udacity.com/course/intro-to-statistics--st101
+- [ ] https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x
+- [ ] https://www.edx.org/course/machine-learning-columbiax-csmm-102x
+- [ ] https://www.coursera.org/specializations/deep-learning
+- [ ] https://www.coursera.org/specializations/probabilistic-graphical-models
+- [ ] http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
